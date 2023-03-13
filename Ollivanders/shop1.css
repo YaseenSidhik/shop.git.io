@@ -1,0 +1,28 @@
+body
+{
+   
+    overflow-x: hidden;
+}
+.wandland
+{
+    
+    height: 100vh;
+
+}
+
+.caption
+{
+    font-family: 'EB Garamond', serif;
+font-family: 'Libre Baskerville', serif;
+}
+
+
+.uwb
+{
+    margin-top: 5.5rem;
+}
+
+.uwb2
+{
+    margin-top: 7rem;
+}
